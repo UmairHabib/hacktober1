@@ -6,7 +6,9 @@
 	padding: 0px;
 	background-color: white;
 }
-
+.container{
+	max-width: 90%;
+}
 .header{
 	border: 0px solid #dedede;
 	padding: 0px;
